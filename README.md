@@ -111,7 +111,7 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/ptanai/ChaddiAttack-V2
+cd ChaddiAttack-V2
 pip install -r requirements.txt
 ```
